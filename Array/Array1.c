@@ -1,3 +1,4 @@
+//1.1 HOW TO INITIALIZE AN ARRAY
 //initialize an array using another array
 #include<stdio.h>
 int main()
