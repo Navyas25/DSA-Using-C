@@ -1,3 +1,4 @@
+//1.2 HOW TO TRAVERSE AN 1D ARRAY USING INDEX
 //traverse a 2d array using index
 #include<stdio.h>
 int main()
