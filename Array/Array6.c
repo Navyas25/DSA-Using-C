@@ -1,0 +1,2 @@
+//1.6 HOW TO PERFORM OPERATIONS INVOLVING EXTERNAL VARIABLES
+//How to Multiply the Elements of an Array
