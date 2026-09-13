@@ -1,3 +1,4 @@
+//1.5 HOW TO ADD ELEMENTS IN THE ODD AND EVEN PLACES IN THE ARRAY
 //add even and odd place numbers of an array
 #include<stdio.h>
 int evenSum(int arr[],int n)
